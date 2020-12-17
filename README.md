@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection-in-Matlab
+# Brain Tumor Detection in Matlab
