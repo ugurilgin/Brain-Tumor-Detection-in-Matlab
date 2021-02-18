@@ -29,7 +29,7 @@ function mainmenu_OpeningFcn(hObject, eventdata, handles, varargin)
 % Choose default command line output for mainmenu
 handles.output = hObject;
 axes(handles.axes1);
-imshow('C:\Users\futbo\OneDrive\Belgeler\Matlab Face Detection\face.jpg');
+imshow('Your Cover Image Path ');
 % Update handles structure
 guidata(hObject, handles);
 
